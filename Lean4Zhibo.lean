@@ -1,3 +1,3 @@
-import lean4zhibo.test
+import «Lean4Zhibo».test
 
 def hello := "world"
